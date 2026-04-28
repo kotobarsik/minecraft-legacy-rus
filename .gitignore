@@ -1,0 +1,10 @@
+*.bak
+*.tmp
+*.log
+*.arc
+*.exe
+*.dll
+tmp/
+temp/
+release/
+
