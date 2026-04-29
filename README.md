@@ -76,7 +76,3 @@ Common\Media\MediaWindows64.arc
 Во время настройки Windows64-сборки выяснилось, что русского языка в игре нет, а меню выбора языка в некоторых вариантах сборки недоступно.
 
 Так появился этот русификатор.
-
-## Disclaimer
-
-Это фанатский проект, не связанный с Mojang, Microsoft или 4J Studios. Minecraft принадлежит Mojang/Microsoft, Legacy Console Edition разрабатывалась 4J Studios.
